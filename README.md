@@ -75,11 +75,11 @@ The app will open automatically at `http://localhost:8501`
 ```
 restaurant-chatbot/
 │
-├── app.py              # Main application file
-├── requirements.txt    # Python dependencies
-├── .env                # API key (not tracked by Git)
-├── .gitignore          # Git ignore rules
-└── README.md           # Project documentation
+├── app.py              
+├── requirements.txt    
+├── .env                
+├── .gitignore          
+└── README.md           
 ```
 
 ---
