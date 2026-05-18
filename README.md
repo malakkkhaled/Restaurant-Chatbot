@@ -1,21 +1,21 @@
-# 🍽️ Restaurant Chatbot
+#Restaurant Chatbot
 
 A smart AI-powered chatbot for restaurant customer support, built with **Streamlit** and **OpenRouter API**.  
 Answers customer questions about menus, reservations, hours, payments, and more — instantly and accurately.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 **Multi-model support** — Switch between GPT-4o Mini, GPT-4o, and Claude 3 Haiku
-- 💬 **Conversational UI** — Clean chat interface powered by Streamlit
-- 🍴 **Restaurant-specialized** — Trained on restaurant-specific knowledge (menu, hours, reservations, etc.)
-- 🎛️ **Adjustable settings** — Control model and temperature from the sidebar
-- ⚡ **Fast responses** — Lightweight and optimized for quick answers
+-  **Multi-model support** — Switch between GPT-4o Mini, GPT-4o, and Claude 3 Haiku
+-  **Conversational UI** — Clean chat interface powered by Streamlit
+-  **Restaurant-specialized** — Trained on restaurant-specific knowledge (menu, hours, reservations, etc.)
+-  **Adjustable settings** — Control model and temperature from the sidebar
+-  **Fast responses** — Lightweight and optimized for quick answers
 
 ---
 
-## 📸 Demo
+##  Demo
 
 > Ask questions like:
 > - *"What are your opening hours?"*
@@ -25,7 +25,7 @@ Answers customer questions about menus, reservations, hours, payments, and more 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -35,7 +35,7 @@ Answers customer questions about menus, reservations, hours, payments, and more 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -58,7 +58,7 @@ Create a `.env` file in the root directory:
 OPENROUTER_KEY=your_openrouter_api_key_here
 ```
 
-> 🔑 Get your free API key from [openrouter.ai](https://openrouter.ai/)
+>  Get your free API key from [openrouter.ai](https://openrouter.ai/)
 
 ### 4. Run the app
 
@@ -70,7 +70,7 @@ The app will open automatically at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 restaurant-chatbot/
@@ -84,7 +84,7 @@ restaurant-chatbot/
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 From the **sidebar** in the app, you can:
 
@@ -95,35 +95,35 @@ From the **sidebar** in the app, you can:
 
 ---
 
-## 🏪 Restaurant Knowledge Base
+##  Restaurant Knowledge Base
 
 The chatbot is pre-loaded with the following information:
 
-- 🕐 **Hours**: Weekdays 11AM–10PM / Weekends 9AM–11PM
-- 📍 **Location**: 123 Main Street, near Central Park entrance
-- 🚗 **Parking**: Free complimentary parking
-- 📞 **Reservations**: Via phone (123-456-7890) or website
-- 🥗 **Menu**: Vegetarian, vegan, and children's options available
-- 🎉 **Happy Hour**: 4PM–6PM on weekdays
-- 💳 **Payments**: Credit/debit cards and cash accepted
-- 🎂 **Private Events**: Available for birthdays, weddings, corporate events
-- 📶 **Wi-Fi**: Free for all customers
+-  **Hours**: Weekdays 11AM–10PM / Weekends 9AM–11PM
+-  **Location**: 123 Main Street, near Central Park entrance
+-  **Parking**: Free complimentary parking
+-  **Reservations**: Via phone (123-456-7890) or website
+-  **Menu**: Vegetarian, vegan, and children's options available
+-  **Happy Hour**: 4PM–6PM on weekdays
+-  **Payments**: Credit/debit cards and cash accepted
+-  **Private Events**: Available for birthdays, weddings, corporate events
+-  **Wi-Fi**: Free for all customers
 
 ---
 
-## 🔒 Security
+##  Security
 
 - The `.env` file is listed in `.gitignore` and will **never** be pushed to GitHub
 - Never share your `OPENROUTER_KEY` publicly
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
-**Eng. Malak Khaled Abdellatif**
+** Malak Khaled Abdellatif**
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and personal use.
