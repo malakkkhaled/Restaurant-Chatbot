@@ -111,13 +111,6 @@ The chatbot is pre-loaded with the following information:
 
 ---
 
-##  Security
-
-- The `.env` file is listed in `.gitignore` and will **never** be pushed to GitHub
-- Never share your `OPENROUTER_KEY` publicly
-
----
-
 ##  Developer
 
 ** Malak Khaled Abdellatif**
