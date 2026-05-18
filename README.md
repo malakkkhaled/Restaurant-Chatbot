@@ -1,4 +1,4 @@
-#Restaurant Chatbot
+# Restaurant Chatbot
 
 A smart AI-powered chatbot for restaurant customer support, built with **Streamlit** and **OpenRouter API**.  
 Answers customer questions about menus, reservations, hours, payments, and more — instantly and accurately.
